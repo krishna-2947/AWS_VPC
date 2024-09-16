@@ -1,6 +1,5 @@
 AWS VPC Architecture with Public and Private Subnets, NAT Gateway, Application Load Balancer(ALB) and Auto Scaling Group(ASG)
 
-<img src="https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png" alt="AWS-VPC">
 
 Introduction :-
 This diagram demonstrates a secure and highly available AWS VPC setup using public and private subnets, NAT Gateways, Application Load Balancer (ALB) and Auto Scaling Group (ASG) 
